@@ -12,3 +12,4 @@ Some open-source projects i am learning recently.(>_<)
  - [ ] https://github.com/statho/ScoreHMR
  - [ ] https://github.com/derikon/awesome-human-motion?tab=readme-ov-file
  - [ ] https://github.com/EricGuo5513/TM2T
+ - [ ] https://blog.roboflow.com/pose-estimation-algorithms-history/
