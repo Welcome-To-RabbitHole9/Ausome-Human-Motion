@@ -11,3 +11,4 @@ Some open-source projects i am learning recently.(>_<)
  - [ ] https://github.com/Vegetebird/StridedTransformer-Pose3D
  - [ ] https://github.com/statho/ScoreHMR
  - [ ] https://github.com/derikon/awesome-human-motion?tab=readme-ov-file
+ - [ ] https://github.com/EricGuo5513/TM2T
